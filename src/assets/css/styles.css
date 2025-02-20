@@ -1,7 +1,9 @@
 .head {
-    /* font-family: "Monoton", serif; */
-    font-family: "Bungee", serif;
-    /* font-family: "Fredericka the Great", serif; */
+    font-family: "Bungee", serif; 
+}
+
+.main-section {
+    font-family: "Fredericka the Great", serif;
     /* font-family: "Special Elite", serif; */
-    /* font-family: "Raleway Dots", serif; */
+    /* font-family: "Monoton", serif; */
 }
